@@ -1,0 +1,120 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{ 
+	background-image: url("C-D-B-F-G.jpg");
+	//text-align: center;
+}
+
+.container{
+	margin: 50px auto;
+	width: 600px;
+	height: 800px;
+	display: flex;
+}
+
+.specContainer{
+	//display: inline-block;
+	width: 100px;
+	height: 800px;
+}
+
+.addContainer{
+	display: inline-block;
+}
+
+.mainContainer{
+	display: flex;
+	flex-flow: row wrap;
+	background-color: black;
+	width: 400px;
+	height: 800px;
+	color: green;
+}
+
+.Elem{
+	box-sizing: border-box;
+	width: 40px;
+	height: 40px;
+	border: 1px solid yellow;
+	//background-color: red;
+}
+
+.noElem{
+	box-sizing: border-box;
+	width: 40px;
+	height: 40px;
+	background-color: #000000;
+	border: 1px solid yellow;
+}
+
+.Elem1{
+	background-color: #C20025;
+}
+
+.Elem2{
+	background-color: #008000;
+}
+
+.Elem3{
+	background-color: #A52A2A;
+}
+
+.Elem4{
+	background-color: #0000FF;
+}
+
+.Elem5{
+	background-color: #6B116B;
+}
+
+.Elem6{
+	background-color: #5555BC;
+}
+
+.Elem7{
+	background-color: #808080;
+}
+
+.Elem8{
+	background-color: #006666;
+}
+
+.Elem9{
+	background-color: #6D2180;
+}
+
+.Elem10{
+	background-color: #1F74AC;
+}
+
+.Elem11{
+	background-color: #801243;
+}
+
+.Elem12{
+	background-color: #2D0F80;
+}
+
+.Elem13{
+	background-color: #00654D;
+}
+
+.Elem14{
+	background-color: #416220;
+}
+
+.Elem15{
+	background-color: #778899;
+}
+
+.Elem16{
+	background-color: #562807;
+}
+
+.buttons{
+	width: 80px;
+	height: 25px;
+}
